@@ -1,10 +1,10 @@
 # Json Parser
 
 ## Usage
-git clone 'xxx'
+
 make sure python is installed
 ```
-cd parser
+git clone https://github.com/bonanyuan/json_parser parser
 python parser_out.py
 ```
 Then it will output all the results into different files in the same folder
