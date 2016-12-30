@@ -4,7 +4,8 @@
 
 make sure python is installed
 ```
-git clone https://github.com/bonanyuan/json_parser parser
+git clone https://github.com/bonanyuan/json_parser 
+cd parser
 python parser_out.py
 ```
 Then it will output all the results into different files in the same folder
